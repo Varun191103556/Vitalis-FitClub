@@ -10,17 +10,17 @@ const Footer = () => {
         <div className="box-container">
           <div className="box">
             <h3>Address</h3>
-            <a href="googlemaplink">Satara Parisar, Aurangabad</a>
+            <a href="googlemaplink">Bangalore, India</a>
             <a href="wa.me"><img alt="whatsapp" src={wp} height="80" width="240" className="btn"/></a>
           </div>
         <div className="box">
             <h3>Contact Us </h3>
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
                 <i className="fa">
-                <a href="tel:+91 8888817886">+91 4363557535 </a></i>  
+                <a href="tel:+91 7989338794">+91 7989338794 </a></i>  
                 <br></br>
                 <i className="fa">
-                <a href="mailto:info.shubham@gmail.com">info@shubham.com</a></i>
+                <a href="mailto:enikepallivarun16.com">enikepallivarun16</a></i>
             </div>
         <div className="box">
             <h3>Follow us</h3>
@@ -42,7 +42,7 @@ const Footer = () => {
       </div>
     </section>
     <div className="credits">
-        <p>© 2023 Shuence. All Rights Reserved.</p>
+        <p>© 2024 Varun. All Rights Reserved.</p>
       </div>
     </div>
     </>
